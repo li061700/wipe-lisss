@@ -1,0 +1,24 @@
+{
+  "name": "swipe-lc",
+  "version": "1.1.0",
+  "description": "canvas擦除主键,支持移动端手势操作，丰富的参数配置",
+  "main": "Gruntfile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "canvas",
+    "swipe",
+    "touch"
+  ],
+  "author": "lisss",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.1.0",
+    "grunt-contrib-jshint": "^2.1.0",
+    "grunt-contrib-uglify": "^4.0.1"
+  }
+}
